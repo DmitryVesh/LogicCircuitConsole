@@ -1,0 +1,11 @@
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/logicGatesCircuit/bin/Release/netcoreapp3.0/logicGatesCircuit
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/logicGatesCircuit/bin/Release/netcoreapp3.0/logicGatesCircuit.deps.json
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/logicGatesCircuit/bin/Release/netcoreapp3.0/logicGatesCircuit.runtimeconfig.json
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/logicGatesCircuit/bin/Release/netcoreapp3.0/logicGatesCircuit.runtimeconfig.dev.json
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/logicGatesCircuit/bin/Release/netcoreapp3.0/logicGatesCircuit.dll
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/logicGatesCircuit/bin/Release/netcoreapp3.0/logicGatesCircuit.pdb
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/logicGatesCircuit/obj/Release/netcoreapp3.0/logicGatesCircuit.csprojAssemblyReference.cache
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/logicGatesCircuit/obj/Release/netcoreapp3.0/logicGatesCircuit.AssemblyInfoInputs.cache
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/logicGatesCircuit/obj/Release/netcoreapp3.0/logicGatesCircuit.AssemblyInfo.cs
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/logicGatesCircuit/obj/Release/netcoreapp3.0/logicGatesCircuit.dll
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/logicGatesCircuit/obj/Release/netcoreapp3.0/logicGatesCircuit.pdb
